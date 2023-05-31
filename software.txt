@@ -3,3 +3,4 @@
 1. eclipse
 2. JDK
 3. Oracle
+4. SQL Devleloper
